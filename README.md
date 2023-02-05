@@ -7,12 +7,13 @@ and less on theory or foundations.
 
 # Notebooks
 
-- [Denoising Diffusion Probabilistic Models (DDPM)]() - A simple implementation of DDPM, with a focus on the training loop and the 
+- [Denoising Diffusion Probabilistic Models (DDPM)](https://colab.research.google.com/github/titu1994/simple_diffusion/blob/master/notebooks/01_simple_ddpm.ipynb) - A simple implementation of DDPM, with a focus on the training loop and the 
   sampling pipeline.
 
 # Requirements
 
-Most of the notebooks should be compatible with Google Colab. However, if you want to run them locally, you will need the following -
+Most of the notebooks should be compatible with Google Colab and are linked above . 
+However, if you want to run them locally, you will need the following -
 
 - Python 3.6+
 - PyTorch 1.13+

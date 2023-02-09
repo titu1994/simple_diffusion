@@ -9,6 +9,7 @@ and less on theory or foundations.
 
 - [Denoising Diffusion Probabilistic Models (DDPM)](https://colab.research.google.com/github/titu1994/simple_diffusion/blob/master/notebooks/01_simple_ddpm.ipynb) - A simple implementation of DDPM, with a focus on the training loop and the 
   sampling pipeline.
+- [Classifier-Free Diffusion Guidance](https://openreview.net/pdf?id=qw8AKxfYbI)
 
 # Requirements
 
